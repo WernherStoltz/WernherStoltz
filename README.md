@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @WernherStoltz
-- 👀 I’m interested in 3d printing and Klipper
+- I am a retired IT specialist who started a new career as a designer
+- 👀 I’m interested in 3d printing and Klipper, as well as Open source software for CAD, animation, video editing and animation.
 
 
 <!---
